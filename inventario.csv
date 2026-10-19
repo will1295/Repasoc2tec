@@ -1,0 +1,76 @@
+ID,Producto,Categoria,Sucursal,Stock,Precio,Costo
+1001,Set de Bolígrafos Gel,Oficina,Sucursal Norte,6,89.50,22.55
+1002,Cámara Web Full HD,Electrónica,Sucursal Norte,26,81.85,72.69
+1003,Adaptador Bluetooth,Electrónica,Sucursal Norte,108,5.75,1.40
+1004,Power Bank 10000mAh,Electrónica,Sucursal Norte,154,5.13,1.72
+1005,Notas Adhesivas Multi Color,Oficina,Sucursal Norte,139,51.50,23.46
+1006,Lámpara de Escritorio,Hogar,Sucursal Norte,194,97.09,67.74
+1007,Dispensador de Jabón,Hogar,Sucursal Norte,39,27.41,20.78
+1008,Cargador Rápido USB-C,Electrónica,Sucursal Norte,97,13.41,11.09
+1009,Cinta Adhesiva Paquete,Oficina,Sucursal Norte,11,88.11,47.44
+1010,Organizador de Cajones,Hogar,Sucursal Norte,141,36.60,23.07
+1011,Cortina de Baño,Hogar,Sucursal Norte,49,85.14,4.83
+1012,Teclado Mecánico,Electrónica,Sucursal Norte,20,102.93,88.89
+1013,Dispensador de Jabón,Hogar,Sucursal Norte,116,77.01,28.55
+1014,Humidificador Ultrasónico,Hogar,Sucursal Norte,53,81.08,56.85
+1015,Tijeras de Oficina,Oficina,Sucursal Norte,18,73.88,13.39
+1016,Organizador de Escritorio,Oficina,Sucursal Sur,41,56.55,15.86
+1017,Notas Adhesivas Multi Color,Oficina,Sucursal Sur,142,27.91,9.56
+1018,Mouse Inalámbrico,Electrónica,Sucursal Sur,8,97.00,39.31
+1019,Mouse Inalámbrico,Electrónica,Sucursal Sur,145,105.41,33.70
+1020,Carpeta de Argollas,Oficina,Sucursal Sur,101,106.39,68.43
+1021,Teclado Mecánico,Electrónica,Sucursal Sur,35,31.10,17.62
+1022,Afilador de Cuchillos,Hogar,Sucursal Sur,149,52.56,30.80
+1023,Báscula Digital,Hogar,Sucursal Sur,35,62.12,6.51
+1024,Cargador Rápido USB-C,Electrónica,Sucursal Sur,39,76.04,60.04
+1025,Cortina de Baño,Hogar,Sucursal Sur,16,47.40,28.35
+1026,Tapete Microfibra,Hogar,Sucursal Sur,64,116.59,100.07
+1027,Foco Inteligente WiFi,Electrónica,Sucursal Sur,184,15.52,13.40
+1028,Cesta para Ropa,Hogar,Sucursal Sur,87,15.16,6.94
+1029,Lámpara de Escritorio,Hogar,Sucursal Sur,184,105.35,28.35
+1030,Engrapadora Uso Rudo,Oficina,Sucursal Sur,129,109.69,95.18
+1031,Cesta para Ropa,Hogar,Sucursal Este,129,73.86,12.06
+1032,Power Bank 10000mAh,Electrónica,Sucursal Este,199,110.85,101.44
+1033,Paquete Hojas T/Carta,Oficina,Sucursal Este,125,4.30,3.60
+1034,Báscula Digital,Hogar,Sucursal Este,14,30.42,17.41
+1035,Cargador Rápido USB-C,Electrónica,Sucursal Este,187,59.35,5.00
+1036,Engrapadora Uso Rudo,Oficina,Sucursal Este,32,79.85,75.19
+1037,Teclado Mecánico,Electrónica,Sucursal Este,135,104.95,44.77
+1038,Power Bank 10000mAh,Electrónica,Sucursal Este,193,88.13,18.43
+1039,Termo de Acero Inoxidable,Hogar,Sucursal Este,171,78.69,34.82
+1040,Carpeta de Argollas,Oficina,Sucursal Este,30,31.25,2.90
+1041,Adaptador Bluetooth,Electrónica,Sucursal Este,141,29.15,7.09
+1042,Cámara Web Full HD,Electrónica,Sucursal Este,161,8.95,1.50
+1043,Bocina Portátil,Electrónica,Sucursal Este,18,62.67,18.03
+1044,Báscula Digital,Hogar,Sucursal Este,138,17.61,16.07
+1045,Pizarrón Blanco 40x30,Oficina,Sucursal Este,121,30.67,14.80
+1046,Báscula Digital,Hogar,Sucursal Oeste,24,13.44,6.15
+1047,Termo de Acero Inoxidable,Hogar,Sucursal Oeste,119,103.93,6.55
+1048,Tijeras de Oficina,Oficina,Sucursal Oeste,25,9.15,6.57
+1049,Mouse Inalámbrico,Electrónica,Sucursal Oeste,49,24.44,11.29
+1050,Reloj Despertador,Hogar,Sucursal Oeste,71,56.59,49.18
+1051,Soporte para Laptop,Electrónica,Sucursal Oeste,140,13.55,8.86
+1052,Cuaderno Profesional,Oficina,Sucursal Oeste,23,111.31,94.20
+1053,Hub USB 4 Puertos,Electrónica,Sucursal Oeste,124,58.80,50.54
+1054,Cable HDMI 4K,Electrónica,Sucursal Oeste,97,2.25,1.29
+1055,Dispensador de Jabón,Hogar,Sucursal Oeste,108,84.20,61.41
+1056,Tijeras de Oficina,Oficina,Sucursal Oeste,183,59.43,12.00
+1057,Audífonos Bluetooth,Electrónica,Sucursal Oeste,148,88.82,6.32
+1058,Lámpara de Escritorio,Hogar,Sucursal Oeste,12,70.93,35.91
+1059,Engrapadora Uso Rudo,Oficina,Sucursal Oeste,14,115.37,10.12
+1060,Cargador Rápido USB-C,Electrónica,Sucursal Oeste,152,10.02,8.34
+1061,Organizador de Cajones,Hogar,Sucursal Centro,145,31.05,18.57
+1062,Set de Bolígrafos Gel,Oficina,Sucursal Centro,107,79.57,45.13
+1063,Dispensador de Jabón,Hogar,Sucursal Centro,52,81.03,25.99
+1064,Termo de Acero Inoxidable,Hogar,Sucursal Centro,33,81.26,24.93
+1065,Organizador de Cajones,Hogar,Sucursal Centro,2,56.08,55.50
+1066,Cargador Rápido USB-C,Electrónica,Sucursal Centro,137,27.15,7.80
+1067,Organizador de Cajones,Hogar,Sucursal Centro,62,45.60,7.96
+1068,Notas Adhesivas Multi Color,Oficina,Sucursal Centro,77,74.18,72.75
+1069,Marcadores Resaltadores,Oficina,Sucursal Centro,2,80.81,44.99
+1070,Set de Bolígrafos Gel,Oficina,Sucursal Centro,34,33.21,29.21
+1071,Marcadores Resaltadores,Oficina,Sucursal Centro,39,34.14,20.74
+1072,Paquete Hojas T/Carta,Oficina,Sucursal Centro,52,83.12,70.61
+1073,Carpeta de Argollas,Oficina,Sucursal Centro,64,108.83,91.81
+1074,Foco Inteligente WiFi,Electrónica,Sucursal Centro,108,99.86,5.34
+1075,Reloj Despertador,Hogar,Sucursal Centro,163,117.62,19.76
